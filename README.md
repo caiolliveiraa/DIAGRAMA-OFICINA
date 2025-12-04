@@ -46,3 +46,5 @@ O modelo lógico foi projetado para:
 ### 📊 Apresentação do Diagrama
 
 Abaixo está o diagrama lógico em formato PNG que representa a estrutura final do modelo para a Oficina Mecânica:
+
+![Diagrama Conceitual]()
