@@ -47,4 +47,4 @@ O modelo lógico foi projetado para:
 
 Abaixo está o diagrama lógico em formato PNG que representa a estrutura final do modelo para a Oficina Mecânica:
 
-![Diagrama Conceitual]()
+![Diagrama Conceitual](https://github.com/caiolliveiraa/DIAGRAMA-OFICINA/blob/main/Diagrama%20-%20Ordem%20de%20Serviço%20-%20Oficina.png)
